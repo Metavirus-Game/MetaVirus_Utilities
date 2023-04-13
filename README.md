@@ -8,5 +8,5 @@ MetaVirus相关工具集合
 
 1. 双击BattleTestUtility.exe启动测试工具
 
-    ![image](https://github.com/Metavirus-Game/PublicResources/blob/master/imgs/1.1.png)
+    ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.1.png)
 
