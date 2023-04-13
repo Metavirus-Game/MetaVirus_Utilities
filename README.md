@@ -10,3 +10,14 @@ MetaVirus相关工具集合
 
     ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.1.png)
 
+2. 设置数据文件夹（首次启动需要设置）
+    
+    点击右侧 Open 按钮，选择 MetaVirus_GameData 项目所在目录，设置好数据文件夹后即可使用
+
+    ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.2.png)
+
+3. 战斗测试
+
+   首先点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.5.png) 开启服务器，然后点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.4.png) 开启客户端进行测试
+
+   如果需要修改数据，直接修改数据目录的excel文件即可，修改完成后，点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.3.png)，如果成功，则即时生效，如果失败，会提示具体的错误信息，根据信息修改excel文件即可。
