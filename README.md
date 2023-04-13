@@ -20,4 +20,4 @@ MetaVirus相关工具集合
 
    首先点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.5.png) 开启服务器，然后点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.4.png) 开启客户端进行测试
 
-   如果需要修改数据，直接修改数据目录的excel文件即可，修改完成后，点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.3.png)，如果成功，则即时生效，如果失败，会提示具体的错误信息，根据信息修改excel文件即可。
+   如果需要修改数据，直接修改数据目录的excel文件即可，修改完成后，点击 ![image](https://github.com/Metavirus-Game/MetaVirus_Utilities/blob/main/imgs/1.3.png)，如果成功，则即时生效，如果失败，会提示具体的错误信息，根据信息修改excel文件即可。 
